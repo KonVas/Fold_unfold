@@ -49,7 +49,7 @@ In this piece, it is aimed to see the traces of life, death and rebirth in ambis
 
 <a id="org31b0991"></a>
 
-## murmur (Ferel)
+## Murmur (Ferel)
 
 With the guidance of all the materials of our prep year, murmur is mainly about shaping human voices and their meanings, grammars, gasps, spaces they exist within. it’s simply a discovery of sound manipulation, taking humans voice as its material. it’s a seed, hopefully.
 
@@ -85,7 +85,7 @@ Is it possible to recall everything?
 
 <a id="org08d3cfb"></a>
 
-## heap (Ülker)
+## Heap (Ülker)
 
 In terms of computer science, a memory heap is a location in memory where dynamically allocated memory resides during run time. Unlike the stack where memory is allocated and released in a very defined order, individual data elements allocated on the heap are typically released in ways which are asynchronous from one another.
 All music consists of different layers, different data elements that vary in time, pitch and timbre parameters which exist together and finally release to create the final form. This piece is no exception. Consisting of granulated, pitch manipulated one shot recordings and generative sounds; the layers form a somewhat ordered, linear sequence of items without any former intentions or objectives besides pleasure. At the end of the piece the heap memory will be freed up with the hope that it will stay with you a bit longer.
@@ -93,9 +93,9 @@ All music consists of different layers, different data elements that vary in tim
 
 <a id="org30b3cfe"></a>
 
-## fold_unfold/index (Temel)
+## Fold_unfold/index (Temel)
 
-The raw material for the piece was culled from a personal archive of various field recordings and synthesised sounds, produced through generative manipulation of several hardware and software synthesisers and synthesising algorithms. The field recordings were run through spectral manipulation processes until they vaguely resemble the source file. The selection was edited with attention to the degree of change between elements, dramatic or subtle, and the arrangement meanders through higher and lower levels of micro and macro organisation. The panoramic image of the mix and the relationship of positive and negative spaces in the music were foremost in my mind. The piece is called fold<sub>unfold</sub>/index because most of the sound files I utilised in the composition were left unlabeled after a hard-drive error, so it is my attempt at making sense of sounds produced over a period of several months. Equalised through this gesture of unintentional data wipeout, the sounds find new life and meaning in unforeseen connections and juxtapositions.
+The raw material for the piece was culled from a personal archive of various field recordings and synthesised sounds, produced through generative manipulation of several hardware and software synthesisers and synthesising algorithms. The field recordings were run through spectral manipulation processes until they vaguely resemble the source file. The selection was edited with attention to the degree of change between elements, dramatic or subtle, and the arrangement meanders through higher and lower levels of micro and macro organisation. The panoramic image of the mix and the relationship of positive and negative spaces in the music were foremost in my mind. The piece is called fold_unfold/index because most of the sound files I utilised in the composition were left unlabeled after a hard-drive error, so it is my attempt at making sense of sounds produced over a period of several months. Equalised through this gesture of unintentional data wipeout, the sounds find new life and meaning in unforeseen connections and juxtapositions.
 
 
 <a id="org1edf0ce"></a>
@@ -151,7 +151,7 @@ A live coding performane using TidalCycles.
 
 <a id="org64b5d87"></a>
 
-## Begin from the End (Vasilakos).
+## Begin from the <sub>End</sub> (Vasilakos).
 
 Live coding is the act of inventing one&rsquo;s tools, material and other sounding paraphernalia on stage, but also finding workarounds on limitations that arise during the “creation” of the music at hand. While the performer is free, no specific rules nor structure or musical paradigm must be followed, but also a way to explore and develop sonic paths. Sometimes ideas pop up by a simple nod or a spontaneous sound in the audience; these in situ musical paraphernalia and sonic regalia all come into play, having a direct impact on improvisation. Live coding heralds a fertile solution and poses some interesting challenges for exploring live performance of live electronics *par excellence*. It also enacts the collective exploration rather than individually in an offline process detached from the moment of the performance. But is this musically meaningful, one may ask. Instead of attempting to provide a solemn statement on this question. I shall reflect with the following quotation: &ldquo;We shall not cease from exploration And the end of all our exploring Will be to arrive where we started And know the place for the first Time.&rdquo; [T.S. Eliot, from “Little Gidding,” Four Quartets (Gardners Books; Main edition, April 30, 2001)
 Originally published 1943)]
