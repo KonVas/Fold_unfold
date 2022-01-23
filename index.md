@@ -31,6 +31,8 @@
 
 Fold/Unfold is a kaleidoscope of sound based media, including fixed, live and experimental performances. This event is a manifestation of the ongoing dialogue of various practises under the rubric of electroacoustic music and beyond. While the works are made using diverse methodologies and various media, these all share a main idea, that is, to build an amalgama of dynamic sound based tales according to the vision of the performer/composer artist. We hope you share with us the excitement of presenting these works as we do.
 
+Konstantinos Vasilakos
+(23/01/22)
 
 <a id="orgf5e809f"></a>
 
