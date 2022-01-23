@@ -8,7 +8,7 @@
     3.  [Expedit (Şimşek)](#org9408111)
     4.  [Naturize (Açıkgöz)](#orge2922ba)
     5.  [heap (Ülker)](#org08d3cfb)
-    6.  [fold<sub>unfold</sub> / index (Temel)](#org30b3cfe)
+    6.  [fold_unfold/index (Temel)](#org30b3cfe)
     7.  [Prep. Test (Certel)](#org1edf0ce)
     8.  [Sameness (Öztürk)](#org0f6dcc9)
 3.  [Live Sessions](#org72a4511)
@@ -91,7 +91,7 @@ All music consists of different layers, different data elements that vary in tim
 
 <a id="org30b3cfe"></a>
 
-## fold<sub>unfold</sub> / index (Temel)
+## fold_unfold/index (Temel)
 
 The raw material for the piece was culled from a personal archive of various field recordings and synthesised sounds, produced through generative manipulation of several hardware and software synthesisers and synthesising algorithms. The field recordings were run through spectral manipulation processes until they vaguely resemble the source file. The selection was edited with attention to the degree of change between elements, dramatic or subtle, and the arrangement meanders through higher and lower levels of micro and macro organisation. The panoramic image of the mix and the relationship of positive and negative spaces in the music were foremost in my mind. The piece is called fold<sub>unfold</sub>/index because most of the sound files I utilised in the composition were left unlabeled after a hard-drive error, so it is my attempt at making sense of sounds produced over a period of several months. Equalised through this gesture of unintentional data wipeout, the sounds find new life and meaning in unforeseen connections and juxtapositions.
 
