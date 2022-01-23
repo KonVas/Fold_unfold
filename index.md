@@ -29,10 +29,11 @@
 
 # Foreword: Fold/Unfold
 
-Fold/Unfold is a kaleidoscope of sound based media, including fixed, live and experimental performances. This event is a manifestation of the ongoing dialogue of various practises under the rubric of electroacoustic music and beyond. While the works are made using diverse methodologies and various media, these all share a main idea, that is, to build an amalgama of dynamic sound based tales according to the vision of the performer/composer artist. We hope you share with us the excitement of presenting these works as we do.
+Fold/Unfold is a kaleidoscope of sound based media, including fixed, live and experimental performances. This event is a manifestation of the ongoing dialogue of various practises under the rubric of electroacoustic music and beyond. 
 
-Konstantinos Vasilakos
-(23/01/22)
+A piece of singular fabric or paper can be folded into different shapes, so that we create zones of differentiation which are not inherent to the original substance, yet also can not be thought and experienced apart from it. This seems to be a very apt metaphor for digital representation and the mercurial nature of sound, where we have this one thing (the ground of the folds/ let's say bits or sound oscillations) mutating into this and that (the folded, limited, shaped things/ digital representations or sound objects) (after Gilles Deleuze).
+
+While the works are made using diverse methodologies and various media, these all share a main idea, that is, to build an amalgama of dynamic sound based tales according to the vision of the performer/composer artist. We hope you share with us the excitement of presenting these works as we do.
 
 <a id="orgf5e809f"></a>
 
